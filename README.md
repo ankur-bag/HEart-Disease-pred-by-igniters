@@ -1,2 +1,2 @@
-﻿# HEart-Disease-pred-by-igniters
+﻿# Heart-Disease-pred-by-igniters
 
